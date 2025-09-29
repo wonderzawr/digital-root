@@ -1,2 +1,2 @@
 # digital-root
-Simple code for find the digital root of the number
+Simple code for find the digital root of the number on python
